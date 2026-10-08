@@ -12,6 +12,15 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.body{
+  color: #6aa79c;
+  background-color: black;
+  
+}
+.accordion-button {
+  border: none !important;
+  box-shadow: none !important;
+}
 
 .App-header {
   background-color: #282c34;
@@ -36,3 +45,69 @@
     transform: rotate(360deg);
   }
 }
+.d-flex{
+  color:black;
+}
+.container{
+  background-color: #675086;
+  margin-top: 8%;
+  border-radius: 3dvh;
+
+  color:aliceblue;
+}
+#root{
+  background-color: #cbe0e0;
+}
+.btn-custom-btn{
+  background-color: rgb(10, 124, 109);
+  border-radius: 1dvh;
+  color:white;
+  height:2.5dvw;
+  width:14%;
+  font-weight:700
+}
+#description{
+  height:30dvw;
+}
+.modal-body{
+  color:black;
+}
+#exampleModalLabel{
+  color:black;
+}
+.btn-btn-primary{
+  background-color: rgb(10, 124, 109);
+  border-radius: 1dvh;
+  color:white;
+  height:2.5dvw;
+  width:24%;
+}
+.btnn-btn-primary{
+  background-color: rgb(10, 124, 109);
+  border-radius: 1dvh;
+  color:white;
+  height:2.5dvw;
+  width:39%;
+}
+.card-title{
+  font-size: 4.5dvh;
+  font-family:fantasy;
+  
+}
+.card-text{
+  font-size: 125%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+.mt-2{
+  font-size: 110%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.form-label{
+  font-size: 125%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
