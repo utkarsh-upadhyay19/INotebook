@@ -1,2 +1,0 @@
-MONGODB_ATLAS_URl=database url
-JWT_SECRET ='raj$baadf';
