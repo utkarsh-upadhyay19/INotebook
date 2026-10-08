@@ -18,8 +18,12 @@
 .env.test.local
 .env.production.local
 
+# Environment files
+.env
+dotenv.txt
+backend/.env
+backend/dotenv.txt
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-backend/dotenv.txt
-backend/.env
